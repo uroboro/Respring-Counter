@@ -1,0 +1,10 @@
+Package: com.uroboro.daemon.respringcounter
+Name: RespringCounter
+Depends: 
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: A simple daemon that keeps count of how many resprings your device had since booting up.
+Maintainer: uroboro <uroboro845@gmail.com>
+Author: uroboro <uroboro845@gmail.com>
+Section: System
+Tag: role::hacker

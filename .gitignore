@@ -1,0 +1,8 @@
+#############
+## Theos
+#############
+.theos
+theos
+packages
+obj
+_
